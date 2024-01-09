@@ -1,0 +1,9 @@
+:root{
+  --navbar:#0F1035;
+  --something:#365486;
+  --body:#7FC7D9;
+  --something2:#DCF2F1;
+}
+.link-hover:hover{
+  color: black;
+}
